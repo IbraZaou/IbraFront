@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a5df223.css",
+    "main.js": "/static/js/main.94cacb16.js",
+    "static/media/me.png": "/static/media/me.8fea966a3da288ebd3dd.png",
+    "static/media/preview7.jpg": "/static/media/preview7.4fa9ae3dafdd225049a5.jpg",
+    "static/media/preview10.jpg": "/static/media/preview10.92d14757d0f5500bde6a.jpg",
+    "static/media/preview6.jpg": "/static/media/preview6.2fe3edc2bd40d3c3fbbc.jpg",
+    "static/media/preview5.jpg": "/static/media/preview5.fca96b3dbb351bbe7a98.jpg",
+    "static/media/preview9.jpg": "/static/media/preview9.1185972b1c88787318c1.jpg",
+    "static/media/me2.jpg": "/static/media/me2.ce75ade52bae32150866.jpg",
+    "static/media/preview3.jpg": "/static/media/preview3.5ec85aa58e87c7bd1883.jpg",
+    "static/media/preview8.jpg": "/static/media/preview8.01dc21775fe31821eb33.jpg",
+    "static/media/preview2.jpg": "/static/media/preview2.ece6b93b6cdba0540db0.jpg",
+    "static/media/wordpress.png": "/static/media/wordpress.0fa1cea997187f40529f.png",
+    "static/media/preview4.jpg": "/static/media/preview4.0d2396da98d17d825122.jpg",
+    "static/media/react.png": "/static/media/react.9d791f4b046ec6b876d9.png",
+    "static/media/java.png": "/static/media/java.6dbff7cf621bb5a825aa.png",
+    "static/media/sass.png": "/static/media/sass.5010a98a1771d1fc0f6c.png",
+    "static/media/desktop-design.jpg": "/static/media/desktop-design.9ac7d8d82a9a94c7d1a4.jpg",
+    "static/media/shopify.png": "/static/media/shopify.ff2df2544000667e97ec.png",
+    "static/media/site_logo.png": "/static/media/site_logo.9f452a527cc63adc20f2.png",
+    "static/media/symfony.png": "/static/media/symfony.a1c96f8070a99b138869.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.a011a04fd6f636f96161.png",
+    "static/media/mysql.png": "/static/media/mysql.e395fe64c51ccd81dd27.png",
+    "static/media/php.png": "/static/media/php.1af4346aadde11a77325.png",
+    "static/media/css.png": "/static/media/css.292b9525306e88abe1c5.png",
+    "static/media/html.png": "/static/media/html.9d41316b167298948943.png",
+    "static/media/node.png": "/static/media/node.f4815a7d3978e12de428.png",
+    "static/media/js.png": "/static/media/js.4e8e2cd7d4b5b89bc9ce.png",
+    "static/media/git.png": "/static/media/git.3fed319cfbd02e1beedb.png",
+    "index.html": "/index.html",
+    "main.6a5df223.css.map": "/static/css/main.6a5df223.css.map",
+    "main.94cacb16.js.map": "/static/js/main.94cacb16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a5df223.css",
+    "static/js/main.94cacb16.js"
+  ]
+}
