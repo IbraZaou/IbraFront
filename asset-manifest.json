@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0aab4a84.css",
-    "main.js": "/static/js/main.3e47aef2.js",
+    "main.css": "/static/css/main.8cb98955.css",
+    "main.js": "/static/js/main.b38bbeac.js",
     "static/media/me.png": "/static/media/me.8fea966a3da288ebd3dd.png",
     "static/media/preview7.jpg": "/static/media/preview7.4fa9ae3dafdd225049a5.jpg",
     "static/media/preview10.jpg": "/static/media/preview10.92d14757d0f5500bde6a.jpg",
@@ -26,6 +26,7 @@
     "static/media/css.png": "/static/media/css.9a621694b498a81e87a3.png",
     "static/media/sass.png": "/static/media/sass.bada9ec6ed2974f517d7.png",
     "static/media/mysql.png": "/static/media/mysql.5fca627761b2126aafe8.png",
+    "static/media/spring.png": "/static/media/spring.00a33ecf74fdb3d34388.png",
     "static/media/eclipse.png": "/static/media/eclipse.f0e591e98fbd577eee84.png",
     "static/media/symfo.png": "/static/media/symfo.c1f58bebe83eae111f0a.png",
     "static/media/vue.png": "/static/media/vue.d2d39f1530b8535e39e1.png",
@@ -37,11 +38,11 @@
     "static/media/flutter.png": "/static/media/flutter.4f9b651ae310e59df77c.png",
     "static/media/bootstrap.png": "/static/media/bootstrap.09d79953a353d808063c.png",
     "index.html": "/index.html",
-    "main.0aab4a84.css.map": "/static/css/main.0aab4a84.css.map",
-    "main.3e47aef2.js.map": "/static/js/main.3e47aef2.js.map"
+    "main.8cb98955.css.map": "/static/css/main.8cb98955.css.map",
+    "main.b38bbeac.js.map": "/static/js/main.b38bbeac.js.map"
   },
   "entrypoints": [
-    "static/css/main.0aab4a84.css",
-    "static/js/main.3e47aef2.js"
+    "static/css/main.8cb98955.css",
+    "static/js/main.b38bbeac.js"
   ]
 }
