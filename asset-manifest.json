@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.04a1dd4b.css",
-    "main.js": "/static/js/main.4544bf90.js",
+    "main.js": "/static/js/main.e924aec9.js",
     "static/media/me.png": "/static/media/me.a49d122ff3d6f203c483.png",
     "static/media/preview7.jpg": "/static/media/preview7.4fa9ae3dafdd225049a5.jpg",
     "static/media/preview10.jpg": "/static/media/preview10.92d14757d0f5500bde6a.jpg",
@@ -18,16 +18,13 @@
     "static/media/nodejs.png": "/static/media/nodejs.7a76e8cee6b3c43bb4e0.png",
     "static/media/mongodb.png": "/static/media/mongodb.e49b3b903a89bc512873.png",
     "static/media/tailwind.png": "/static/media/tailwind.85bb6c9eeab8f692e44b.png",
-    "static/media/laravel.png": "/static/media/laravel.0c59c2b6b4634204ca1c.png",
     "static/media/wp.png": "/static/media/wp.73033f4504ebaae5cb9d.png",
     "static/media/shopify.png": "/static/media/shopify.00a9f57098212a9d1303.png",
     "static/media/react.png": "/static/media/react.544c8a03d8547d379806.png",
     "static/media/php.png": "/static/media/php.d4e25275f7477f51ebe8.png",
-    "static/media/java.png": "/static/media/java.a57b799c790139420134.png",
     "static/media/css.png": "/static/media/css.9a621694b498a81e87a3.png",
     "static/media/sass.png": "/static/media/sass.bada9ec6ed2974f517d7.png",
     "static/media/mysql.png": "/static/media/mysql.5fca627761b2126aafe8.png",
-    "static/media/spring.png": "/static/media/spring.00a33ecf74fdb3d34388.png",
     "static/media/eclipse.png": "/static/media/eclipse.f0e591e98fbd577eee84.png",
     "static/media/symfo.png": "/static/media/symfo.c1f58bebe83eae111f0a.png",
     "static/media/vue.png": "/static/media/vue.d2d39f1530b8535e39e1.png",
@@ -37,13 +34,12 @@
     "static/media/html.png": "/static/media/html.611141379c31ccb0a3a1.png",
     "static/media/flutter.png": "/static/media/flutter.4f9b651ae310e59df77c.png",
     "static/media/site_logo.png": "/static/media/site_logo.50666091a4226df51e81.png",
-    "static/media/bootstrap.png": "/static/media/bootstrap.09d79953a353d808063c.png",
     "index.html": "/index.html",
     "main.04a1dd4b.css.map": "/static/css/main.04a1dd4b.css.map",
-    "main.4544bf90.js.map": "/static/js/main.4544bf90.js.map"
+    "main.e924aec9.js.map": "/static/js/main.e924aec9.js.map"
   },
   "entrypoints": [
     "static/css/main.04a1dd4b.css",
-    "static/js/main.4544bf90.js"
+    "static/js/main.e924aec9.js"
   ]
 }
